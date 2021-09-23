@@ -1,5 +1,8 @@
 _repo: Silver-Rifle-the-Girl-Trailer-Beadle-s-Pocket-Novels-No-72_66310
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66310-h/images/cover.jpg
 creator:
   author:
     agent_name: Harbaugh, T. C. (Thomas Chalmers)
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36351
     wikipedia: https://en.wikipedia.org/wiki/Thomas_Chalmers_Harbaugh
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66310#Silver-Rifle-the-Girl-Trailer-Beadle-s-Pocket-Novels-No-72
 gutenberg_issued: '2021-09-15'
 identifiers:
   gutenberg: '66310'
